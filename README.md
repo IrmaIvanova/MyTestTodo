@@ -1,0 +1,2 @@
+# MyTestTodo
+React, typscript, redux
